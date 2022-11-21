@@ -1,0 +1,39 @@
+header{ 
+    position: relative;
+    color:darkgreen;
+    font-size: 10vw;
+    text-align: center;
+
+}
+body{ 
+
+
+  background-color: rgba(126, 148, 85, 0.8);
+}
+
+form{
+    flex-direction: column;
+    display: flex; 
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+h1{
+    color: darkred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: center;
+    color: rgba(148, 252, 30, 0.8) ;
+
+}
+.home {
+    color:blueviolet
+}
